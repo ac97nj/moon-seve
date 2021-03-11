@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moon-seve/static/css/main.0085daba.chunk.css",
+    "main.js": "/moon-seve/static/js/main.a6d1e381.chunk.js",
+    "main.js.map": "/moon-seve/static/js/main.a6d1e381.chunk.js.map",
+    "runtime-main.js": "/moon-seve/static/js/runtime-main.18d28d95.js",
+    "runtime-main.js.map": "/moon-seve/static/js/runtime-main.18d28d95.js.map",
+    "static/js/2.ec88a400.chunk.js": "/moon-seve/static/js/2.ec88a400.chunk.js",
+    "static/js/2.ec88a400.chunk.js.map": "/moon-seve/static/js/2.ec88a400.chunk.js.map",
+    "static/js/3.ffcef181.chunk.js": "/moon-seve/static/js/3.ffcef181.chunk.js",
+    "static/js/3.ffcef181.chunk.js.map": "/moon-seve/static/js/3.ffcef181.chunk.js.map",
+    "index.html": "/moon-seve/index.html",
+    "static/css/main.0085daba.chunk.css.map": "/moon-seve/static/css/main.0085daba.chunk.css.map",
+    "static/js/2.ec88a400.chunk.js.LICENSE.txt": "/moon-seve/static/js/2.ec88a400.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18d28d95.js",
+    "static/js/2.ec88a400.chunk.js",
+    "static/css/main.0085daba.chunk.css",
+    "static/js/main.a6d1e381.chunk.js"
+  ]
+}
